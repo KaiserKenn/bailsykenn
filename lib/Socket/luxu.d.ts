@@ -162,8 +162,8 @@ declare namespace imup {
         itemCount?: string | number,
         message: string,
         orderTitle: string,
-        tXrelly-speclAmount1000?: string | number,
-        tXrelly-speclCurrencyCode?: string
+        tXrellyspeclAmount1000?: string | number,
+        tXrellyspeclCurrencyCode?: string
     }
     
     interface GroupStatus {
